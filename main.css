@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+    color: maroon;
+    font-family: Arial;
+    margin: 0px;
+}
+main {
+    background-color: lightblue;
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    font-size: 25px;
+}
+footer {
+    background-color: lightseagreen;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2px;
+    font-size: 20px;
+}
+header {
+    background-color: lightseagreen;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2px;
+    font-size: 20px;
+}
