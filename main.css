@@ -13,14 +13,14 @@ main {
 }
 footer {
     background-color: lightseagreen;
-    color: red;
+    color: rgb(3, 41, 3);
     font-family: 'Times New Roman', Times, serif;
     margin: 2px;
     font-size: 20px;
 }
 header {
     background-color: lightseagreen;
-    color: red;
+    color: rgb(3, 41, 3);
     font-family: 'Times New Roman', Times, serif;
     margin: 2px;
     font-size: 20px;
